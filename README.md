@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning django  
 - 📫 How to reach me?? no way!!
 
+<h2>Programming languages that I know</h2>
 <div>
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
