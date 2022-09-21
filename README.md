@@ -3,6 +3,7 @@
 - 📫 How to reach me?? no way!!
 
 <h2>Programming languages that I know</h2>
+<hr>
 <div>
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
@@ -17,6 +18,7 @@
 </div>
 <br>
 <h3>My text editor</h3>
+<hr>
 <div><img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></div>
 
 <br>
