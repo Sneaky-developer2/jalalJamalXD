@@ -3,7 +3,7 @@
 - 📫 How to reach me?? no way!!
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD/jalalJamalXD/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD)
 
 
 
