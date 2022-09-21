@@ -3,11 +3,19 @@
 - 📫 How to reach me?? no way!!
 
 <div>
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
+<br>
+<br>
   
+<h4>My text editors</h4>
+<div><img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></div>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD)
 
