@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning django  
 - 📫 How to reach me?? no way!!
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD)
 
