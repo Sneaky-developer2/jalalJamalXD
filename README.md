@@ -3,7 +3,7 @@
 - 📫 How to reach me?? no way!!
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jalalJamalXD)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Default)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
