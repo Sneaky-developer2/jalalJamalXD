@@ -18,7 +18,7 @@
 </div>
 <br>
 <h3>My text editor</h3>
-<hr>
+
 <div><img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></div>
 
 <br>
