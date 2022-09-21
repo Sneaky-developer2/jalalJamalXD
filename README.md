@@ -10,12 +10,12 @@
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
-  
+
 <br>
-<br>
-  
-<h4>My text editors</h4>
+<h3>My text editors</h3>
 <div><img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></div>
+
+<br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD)
 
