@@ -2,8 +2,13 @@
 - 🌱 I’m currently learning django  
 - 📫 How to reach me?? no way!!
 
+<div>
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
+<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+</div>
+  
+  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jalalJamalXD&theme=onedark)](https://github.com/jalalJamalXD)
 
 
