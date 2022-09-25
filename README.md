@@ -36,7 +36,7 @@
 https://www.linkedin.com/learning/certificates/ce6478c7e77508e5b659c8acf483a55ad660f962ef96bc8e90fd230c3fb2ea19?trk=share_certificate
 
 
-<img style="width:50px;" src="https://user-images.githubusercontent.com/111292790/192156729-f6961be1-fd91-4f35-8647-e3e65250f440.png">
+<img style="width:500px;" src="https://user-images.githubusercontent.com/111292790/192156729-f6961be1-fd91-4f35-8647-e3e65250f440.png">
 
 
 
