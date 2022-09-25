@@ -15,6 +15,7 @@
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<i style="width:50px;" class="devicon-angularjs-plain colored"></i>
 </div>
 <br>
 <h3>My text editor</h3>
