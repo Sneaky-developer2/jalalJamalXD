@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jalalJamalXD
+- 👋 Hi, I’m @sneaky developer
 - 🌱 I’m currently learning django  
 - 📫 How to reach me?? no way!!
 
