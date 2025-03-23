@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sneaky developer
-- 🌱 I’m currently learning django  
+- 🌱 I’m currently learning django, Angular  
 - 📫 How to reach me?? no way!!
 
-<h2>Programming languages that I know</h2>
+<h2>Technologies that i use </h2>
 
 <div>
 <img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
